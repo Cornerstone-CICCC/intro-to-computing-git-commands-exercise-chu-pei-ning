@@ -1,4 +1,5 @@
 Hello world!!
-Welcome to My Git Project\n## Description
+Welcome to My Git Project
+## Description
 This project demonstrates basic Git and GitHub operations.
-\n This project helps to understand Git basics.
+This project helps to understand Git basics.
